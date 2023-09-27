@@ -1,0 +1,15 @@
+{
+  "omnisharp.projectLoadTimeout": 60,
+
+  "omnisharp.monoPath": "/Library/Frameworks/Mono.framework/Versions/Current/Commands/mono", 
+
+  "omnisharp.dotnetPath": "/usr/local/share/dotnet/dotnet",
+
+  "omnisharp.useModernNet": false,
+  "omnisharp.useGlobalMono": "always",
+
+  "editor.formatOnSave": true,
+  "[csharp]": {
+    "editor.defaultFormatter": "ms-dotnettools.csharp"
+  }
+}
