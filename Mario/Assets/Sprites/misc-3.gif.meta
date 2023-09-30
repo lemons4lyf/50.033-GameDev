@@ -362,7 +362,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -395,6 +395,69 @@ TextureImporter:
       indices: 
       edges: []
       weights: []
+    - serializedVersion: 2
+      name: question_block_light
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 1057
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ca7bfdd025484258acf9910a578f91a
+      internalID: 1728405915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: question_block_empty
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 1171
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3263e736f16b3439aa35333ce1fbd8f6
+      internalID: -363889228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coin
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 1074
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9143d70105ed040da9cdaa4829c64e89
+      internalID: 855133725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
@@ -414,10 +477,13 @@ TextureImporter:
       Ground_Brown: -2133104281
       big_hill: 857716104
       brick: 1444714142
+      coin: 855133725
       goomba: -518540844
       pipe_up_body_green: -1586630562
       pipe_up_mouth_green: -665566884
       question_block: 152922464
+      question_block_empty: -363889228
+      question_block_light: 1728405915
       small_hill: 1593557813
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0

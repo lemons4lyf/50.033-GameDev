@@ -269,6 +269,27 @@ TextureImporter:
       indices: 
       edges: []
       weights: []
+    - serializedVersion: 2
+      name: mario_die
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 158
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54b78a5bf8e7a473fa9d27fd982ff1bd
+      internalID: -455679796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
@@ -281,6 +302,7 @@ TextureImporter:
     secondaryTextures: []
     nameFileIdTable:
       mario_brake: 975828322
+      mario_die: -455679796
       mario_jump_2: 1843766711
       mario_run_1: 623749112
       mario_run_2: -1742057437

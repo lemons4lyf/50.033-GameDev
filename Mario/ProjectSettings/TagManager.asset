@@ -8,16 +8,17 @@ TagManager:
   - Obstacle
   - Enemy
   - Canvas
+  - Boundary
   layers:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - 
+  - Ground
   - Water
   - UI
-  - 
-  - 
-  - 
+  - Enemies
+  - Obstacles
+  - PowerUp
   - 
   - 
   - 
