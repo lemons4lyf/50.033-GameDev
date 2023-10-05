@@ -425,7 +425,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -446,7 +446,7 @@ TextureImporter:
         width: 11
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -454,6 +454,27 @@ TextureImporter:
       bones: []
       spriteID: 9143d70105ed040da9cdaa4829c64e89
       internalID: 855133725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goomba_flat
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 342
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5da674462ae144e108790d13e1abdd3c
+      internalID: -851726859
       vertices: []
       indices: 
       edges: []
@@ -479,6 +500,7 @@ TextureImporter:
       brick: 1444714142
       coin: 855133725
       goomba: -518540844
+      goomba_flat: -851726859
       pipe_up_body_green: -1586630562
       pipe_up_mouth_green: -665566884
       question_block: 152922464

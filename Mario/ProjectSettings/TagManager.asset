@@ -9,6 +9,7 @@ TagManager:
   - Enemy
   - Canvas
   - Boundary
+  - Manager
   layers:
   - Default
   - TransparentFX
@@ -19,7 +20,7 @@ TagManager:
   - Enemies
   - Obstacles
   - PowerUp
-  - 
+  - Player
   - 
   - 
   - 
